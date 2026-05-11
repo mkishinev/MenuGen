@@ -108,7 +108,7 @@ Gemini Gem required modified instructions and is slower in image generation for 
 
 * "Development" time for an instruction prompt and one test: **< 15 minutes**
 * Validate that it works as Claude Project, ChatGPT project: **< 10 minutes**
-* Debugging Gemini's behavior and modifying instructions: ** 30 minutes** 
+* Debugging Gemini's behavior and modifying instructions: **30 minutes** 
 * No code required beyond prompt design
 
 ---
